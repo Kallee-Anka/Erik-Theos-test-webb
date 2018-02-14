@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-body { 
-	background-image: url("");
-background-position: center;
-background-size: cover;
-height: 50%;
-  }
-=======
 html{
 	height: 100%
 }
@@ -19,4 +11,4 @@ background-image: url("http://wallpaperstock.net/mountains-dark-forest-river_wal
 			background-size: cover;
 				height: 100%; 
 }
->>>>>>> 89b0748e7b7937c515a85db568de010a0a622ea0
+

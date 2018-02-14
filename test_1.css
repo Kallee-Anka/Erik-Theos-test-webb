@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+body { 
+	background-image: url("");
+background-position: center;
+background-size: cover;
+height: 50%;
+  }
+=======
 html{
 	height: 100%
 }
@@ -11,3 +19,4 @@ background-image: url("https://pre00.deviantart.net/7105/th/pre/f/2016/046/0/c/n
 			background-size: cover;
 				height: 100%; 
 }
+>>>>>>> 89b0748e7b7937c515a85db568de010a0a622ea0

@@ -1,6 +1,22 @@
+<<<<<<< HEAD
 body { 
 	background-image: url("");
 background-position: center;
 background-size: cover;
 height: 50%;
   }
+=======
+html{
+	height: 100%
+}
+
+body{
+	text-align: center;
+
+background-image: url("http://wallpaperstock.net/mountains-dark-forest-river_wallpapers_48309_1920x1080.jpg");
+	background-position: center;
+		background-repeat: no-repeat;
+			background-size: cover;
+				height: 100%; 
+}
+>>>>>>> 89b0748e7b7937c515a85db568de010a0a622ea0

@@ -4,7 +4,10 @@ html {
 }
 
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> 393550fa47e73c52c8bae412b4be52bf27c44576
 body {
 
 	background-color: black;
@@ -17,11 +20,15 @@ body {
 			background-size: cover;
 				height: 100%; 
 
+<<<<<<< HEAD
+=======
 /* Nav Bar */
+>>>>>>> 393550fa47e73c52c8bae412b4be52bf27c44576
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/*Nav Bar*/
 .topnav {
   overflow: hidden;
   background-color: transparent;
@@ -44,6 +51,8 @@ body {
 .topnav a {
   color: white;
 }
+<<<<<<< HEAD
+=======
 
 #img 
 { display: table; 
@@ -64,3 +73,4 @@ background-repeat: no-repeat;
 
 
 
+>>>>>>> 393550fa47e73c52c8bae412b4be52bf27c44576

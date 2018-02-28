@@ -3,16 +3,10 @@ html {
   height: 100%;
 }
 
-<<<<<<< HEAD
 
 body {
-=======
-body {
-  
 
->>>>>>> 805d2c83c95dc0631b3f436588962796d81c6bae
-
-	background-color: #595959;
+	background-color: black;
 	text-align: center;
 
 
@@ -22,15 +16,11 @@ body {
 			background-size: cover;
 				height: 100%; 
 
-}
-<<<<<<< HEAD
-
-
-body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/*Nav Bar*/
 .topnav {
   overflow: hidden;
   background-color: transparent;
@@ -50,8 +40,6 @@ body {
   color: black;
 }
 
-.topnav a.active {
+.topnav a {
   color: white;
 }
-=======
->>>>>>> 805d2c83c95dc0631b3f436588962796d81c6bae

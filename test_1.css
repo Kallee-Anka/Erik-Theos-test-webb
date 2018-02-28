@@ -3,16 +3,11 @@ html {
   height: 100%;
 }
 
-<<<<<<< HEAD
+
 
 body {
-=======
-body {
-  
 
->>>>>>> 805d2c83c95dc0631b3f436588962796d81c6bae
-
-	background-color: #595959;
+	background-color: black;
 	text-align: center;
 
 
@@ -22,11 +17,7 @@ body {
 			background-size: cover;
 				height: 100%; 
 
-}
-<<<<<<< HEAD
-
-
-body {
+/* Nav Bar */
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -50,8 +41,26 @@ body {
   color: black;
 }
 
-.topnav a.active {
+.topnav a {
   color: white;
 }
-=======
->>>>>>> 805d2c83c95dc0631b3f436588962796d81c6bae
+
+#img 
+{ display: table; 
+width: 100%; 
+margin-top: 1500px;
+height: auto;
+min-height: 500px;
+padding: 200px 0;
+text-align: center; 
+color: white;
+background: url("https://i.pinimg.com/originals/c0/20/d4/c020d4d36d3681dbb80a840dcd826cd5.jpg"); 
+background-size: cover;
+background-color: black; 
+background-position: center;
+background-repeat: no-repeat;
+
+ }
+
+
+

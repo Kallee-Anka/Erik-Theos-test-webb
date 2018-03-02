@@ -4,7 +4,10 @@ html {
 }
 
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> 0edccf79b0ef0485ee72123b6961d86e1e74c809
 body {
 
 	background-color: black;
@@ -17,9 +20,12 @@ body {
 			background-size: cover;
 				height: 100%; 
 
+<<<<<<< HEAD
+=======
 
 /* Nav Bar */
 
+>>>>>>> 0edccf79b0ef0485ee72123b6961d86e1e74c809
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -47,8 +53,12 @@ body {
 .topnav a {
   color: white;
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> 0edccf79b0ef0485ee72123b6961d86e1e74c809
 
+/*img*/
 #img 
 { display: table; 
 width: 100%; 
@@ -67,5 +77,11 @@ background-repeat: no-repeat;
  }
 
 
+<<<<<<< HEAD
+=======
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0edccf79b0ef0485ee72123b6961d86e1e74c809
+>>>>>>> 8692265d97fb18eb665421c5996cba4ca18ca6ee

@@ -48,6 +48,13 @@ body {
 }
 
 
+
+#Quotes{ 
+ float: left;
+ margin-top: 1000px;
+
+ }
+
 /*img*/
 #img 
 { display: table; 
@@ -65,5 +72,6 @@ background-position: center;
 background-repeat: no-repeat;
 
  }
+
 
 
